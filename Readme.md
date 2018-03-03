@@ -2,6 +2,7 @@
 
 * Студент: [Александр Селиверстов](https://up.htmlacademy.ru/htmlcss/20/user/206444).
 * Наставник: `Неизвестно`.
+* Наставник: [Юрий Уваров] (https://up.htmlacademy.ru/htmlcss/20/user/231839).
 
 ---
 
